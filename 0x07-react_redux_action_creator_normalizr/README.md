@@ -1,1 +1,1 @@
-React Immutable
+React Redux action creator+normalizr
