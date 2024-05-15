@@ -1,1 +1,1 @@
-0x08. React Redux reducer+selector
+React Redux Connectors and Providers
